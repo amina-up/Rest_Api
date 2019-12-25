@@ -1,0 +1,10 @@
+.contactList {
+  display: flex;
+  justify-content: center;
+  font-size: 64px;
+  color: darkcyan;
+}
+.app {
+  display: flex;
+  flex-direction: column;
+}

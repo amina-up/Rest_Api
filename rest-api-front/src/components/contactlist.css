@@ -1,0 +1,13 @@
+.List {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.list-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.card {
+  box-shadow: 6px 9px 21px cyan;
+}
